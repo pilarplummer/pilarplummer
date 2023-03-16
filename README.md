@@ -5,7 +5,7 @@
 ```js
 const pilarplummer = {
   Currently using: [Python, Java, SQL],
-  Tools: [Visual Studio Code, Git, Sublime]
+  Tools: [Visual Studio Code, Git, Sublime, SQL Server Management Studio]
 }
 ```
 
